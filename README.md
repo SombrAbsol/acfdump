@@ -4,7 +4,7 @@ Rewamp of the original ACF extraction tool by Barubary.
 ## Description
 ACF files are used in *Pokémon Ranger: Guardian Signs* data. This tool allows you to extract and decompress the files they contain.
 
-The original program was developed by Barubary. To ensure that it is not lost and can continue to be maintained and forked, I decompiled it, corrected build errors, and made some minor improvements.
+The original program was developed by Barubary. To ensure that it is not lost and can continue to be maintained and forked, [I decompiled it](https://github.com/SombrAbsol/acfdump/tree/decompilation), corrected build errors, and made some minor improvements.
 
 ## Building
 1. [Install Java](https://notes.highlysuspect.agency/blog/managing_java/)

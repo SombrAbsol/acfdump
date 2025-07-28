@@ -9,7 +9,7 @@ The original program was developed by Barubary. To ensure that it is not lost an
 For more information about the ACF format, see [the documentation](/doc/acf.md).
 
 ## Building
-1. Clone this repository by running `git clone https://github.com/SombrAbsol/acfdump`, or [download the ZIP archive](https://github.com/SombrAbsol/acfdump/archive/refs/heads/main.zip)
+1. Clone this repository by running `git clone https://github.com/SombrAbsol/acfdump`, or [download the ZIP archive](https://github.com/SombrAbsol/acfdump/archive/refs/heads/main.zip) and extract it
 2. [Install Java](https://notes.highlysuspect.agency/blog/managing_java/)
 3. [Add Java to your PATH](https://www.java.com/en/download/help/path.html) if it is not already done during installation
 4. Go to the repository directory. Depending on your operating system or your shell, run the `build.bat` script (Windows), the `build.sh` script (Unix) or the `make` command if it is installed (Unix)

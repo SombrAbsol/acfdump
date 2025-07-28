@@ -14,7 +14,7 @@ The original program was developed by Barubary. To ensure that it is not lost an
 ## Usage
 ### Dumping the ROM
 You can dump your own *Pokémon Ranger: Guardian Signs* ROM from:
-* [a Nintendo DS or a Nintendo 3DS console](https://dumping.guide/carts/nintendo/ds) (Game Card release)
+* [a console from the Nintendo DS or Nintendo 3DS family](https://dumping.guide/carts/nintendo/ds) (Game Card release)
 * [a Wii U](https://wiki.hacks.guide/wiki/Wii_U:VC_Extract) (Virtual Console release)
 
 ### Getting the ACF files

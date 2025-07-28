@@ -22,7 +22,7 @@ You can dump your own *Pokémon Ranger: Guardian Signs* ROM from:
 
 ### Getting the ACF files
 1. Download, extract and launch [NDSFactory](https://github.com/Luca1991/NDSFactory/releases/latest)
-2. Open the program, load your ROM, then press the `Extract Eerything` button and choose where to save your files
+2. Open the program, load your ROM, then press the `Extract Everything` button and choose where to save your files
 3. Once the process is complete, go to the `Fat Tools` tab, fill in the first three fields with the requested files you just extracted (`fat_data.bin`, `fnt.bin` and `fat.bin`), then press the `Extract FAT Data!` button and choose where to save your files
 4. Go to your output directory. ACF files are located in the `data` folder
 

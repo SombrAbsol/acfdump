@@ -10,7 +10,7 @@ For more information about the ACF format, see [the documentation](/doc/acf.md).
 
 ## Building
 1. Clone this repository by running `git clone https://github.com/SombrAbsol/acfdump`, or [download the ZIP archive](https://github.com/SombrAbsol/acfdump/archive/refs/heads/main.zip) and extract it
-2. [Install Java](https://notes.highlysuspect.agency/blog/managing_java/)
+2. [Install a JDK](https://notes.highlysuspect.agency/blog/managing_java/)
 3. [Add Java to your PATH](https://www.java.com/en/download/help/path.html) if it is not already done during installation
 4. Go to the repository directory. Depending on your operating system or your shell, run the `build.bat` script (Windows), the `build.sh` script (Unix) or the `make` command if it is installed (Unix)
 
@@ -27,8 +27,9 @@ You can dump your own *Pokémon Ranger: Guardian Signs* ROM from:
 4. Go to your output directory. ACF files are located in the `data` folder
 
 ### Running acfdump
-* For one specific ACF file, run `java -jar acfdump.jar <filename>.acf`
-* For every ACF files in the current directory, run `java -jar acfdump.jar *.acf`
+acfdump requires [a JRE or JDK to be installed](https://notes.highlysuspect.agency/blog/managing_java/) in order to be run with the `java` command.
+* To unpack a specific ACF file, run `java -jar acfdump.jar <file>.acf`
+* To unpack every ACF files in the current directory, run `java -jar acfdump.jar *.acf`
 
 Output files will be located in a folder with the same name as the input ACF file.
 
